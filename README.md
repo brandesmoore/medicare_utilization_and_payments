@@ -22,7 +22,6 @@ My role consisted of cleaning the hospital utilization and payment data for 2013
 
 # The Takeaways
 *Challenges:*
-
 Reading, cleaning and analyzing 27M rows of data proved to be the main challenge for this project, but I was able to lighten the load by reading in the data in chunks in Python.
 
 *Rewards:*
